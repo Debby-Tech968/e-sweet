@@ -5,6 +5,7 @@ import SiteNav from "./components/SiteNav";
 import LandingPage from "./components/LandingPage";
 
 const App = () => {
+  // Updated E-Sweet website
   const [navVisible, setNavVisible] = useState(false);
   const reduceMotion = useReducedMotion();
 
